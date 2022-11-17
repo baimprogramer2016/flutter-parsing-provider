@@ -1,0 +1,28 @@
+{
+    "nama" : "Jacky Chan",
+    "umur" : 50,
+    "info" : {
+        "alamat": "Hongkong",
+        "wa" :" 0838373837"
+    },
+
+    "pengalaman" :[
+        {
+            "kantor" : "PT Roti Berkah",
+            "lama_pengalaman" : 5,
+            "profesi" :"Admin"
+    
+        },
+        {
+            "kantor" : "PT Bank Sentosa",
+            "lama_pengalaman" : 2,
+            "profesi" :"Teller"
+    
+        },
+        {
+            "kantor" : "PT Manufacture Berkah",
+            "lama_pengalaman" : 1,
+            "profesi" :"Operator"
+        }
+    ]
+}
